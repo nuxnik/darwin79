@@ -12,5 +12,5 @@ This is a work in progress and includes various cad and config files relating to
 
 1. [Insta360 Go Mount](src/insta360go_mount.slvs) - 3D model for Insta360 Go mount
 
-This mount requires 2 x M2 screws. It is also available as a printable STL file on [Thingiverse]()
+This mount requires 2 x M2 screws. It is also available as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4868866)
 
